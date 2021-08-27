@@ -1,0 +1,40 @@
+div.image-reader {
+    margin: 40px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    h1 {
+        margin-bottom: 16px;
+    }
+
+    strong {
+        margin-bottom: 16px;
+    }
+
+    div.button-container {
+        display: flex;
+        flex-direction: column;
+
+        align-items: center;
+        
+        
+        margin-bottom: 16px;
+    }
+
+    footer {
+        color: #05445E;
+        font-size: 12px;
+        position: fixed;
+        bottom: 20px;
+
+        a {
+            color: #05445E;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 600;
+        }
+    }
+}
