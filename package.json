@@ -1,7 +1,7 @@
 {
   "name": "PGMReader",
   "version": "1.0.1",
-  "homepage": "pgm-reader/",
+  "homepage": "https://RogerRoth.github.io/pgm-readerpgm-reader",
   "description": "Image reader for .pgm files, and represent it as a matrix",
   "main": "index.js",
   "author": "Roger Rothmund",
