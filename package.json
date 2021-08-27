@@ -1,6 +1,6 @@
 {
   "name": "PGMReader",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "homepage": "pgm-reader/",
   "description": "Image reader for .pgm files, and represent it as a matrix",
   "main": "index.js",
