@@ -7,7 +7,7 @@
   "author": "Roger Rothmund",
   "license": "MIT",
   "scripts": {
-    "predeploy": "yarn run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d dist",
     "dev": "webpack serve",
     "build": "cross-env NODE_ENV=production webpack"
